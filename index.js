@@ -24,6 +24,7 @@ if (process.env.NODE_ENV === "local") {
         "http://172.20.60.63:8082",
         "http://192.168.189.1:8081",
         "http://localhost:5173",
+        "http://24.199.120.137:3000",
       ],
       credentials: true,
     })
